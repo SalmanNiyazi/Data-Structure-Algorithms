@@ -14,7 +14,7 @@ for(let i = 0; i < len; i++){
 console.log(b);
 
 //complexity of this algorithm is very high i.e. close to n**2
-//therfore we will try another alogorithm
+//therefore we will try another algorithm
 
 a.sort()//lets sort the array first
 let temp;
